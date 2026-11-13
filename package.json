@@ -1,0 +1,15 @@
+{
+  "name": "huruf-mobile",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "sync": "cp ../index.html www/index.html && npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.6.10",
+    "@capacitor/core": "^7.6.10"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.6.10"
+  }
+}

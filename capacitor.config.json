@@ -1,0 +1,11 @@
+{
+  "appId": "com.shabbirmaanak.huruf",
+  "appName": "Huruf",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  },
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}

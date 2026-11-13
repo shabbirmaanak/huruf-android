@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Huruf</string>
+    <string name="title_activity_main">Huruf</string>
+    <string name="package_name">com.shabbirmaanak.huruf</string>
+    <string name="custom_url_scheme">com.shabbirmaanak.huruf</string>
+</resources>

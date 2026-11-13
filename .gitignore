@@ -1,0 +1,12 @@
+node_modules/
+www/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/app/.cxx/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor*.json
+android/app/src/main/assets/*.bin
+.DS_Store
