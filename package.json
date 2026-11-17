@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "scripts": {
-    "sync": "cp ../index.html www/index.html && npx cap sync android"
+    "sync": "cp ../index.html www/index.html && cp ../tarikh.html www/tarikh.html && npx cap sync android"
   },
   "dependencies": {
     "@capacitor/android": "^7.6.10",
